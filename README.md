@@ -11,9 +11,6 @@ of relevant topics._
 2.- Online Reputation Managment<br>
 3.- Social Media Marketing<br>
 
-<img src="screenshots/Screen Shot 2021-03-06 at 15.39.15.png" alt="Screenshot"/>
-
-<br>
 <br>
 
 ### Navigation Bar 📋
@@ -21,16 +18,14 @@ of relevant topics._
 In the navigation bar you can find three buttons that will guide you throw the page.
 <br>
 <br>
- <img src="screenshots/Screen Shot 2021-03-06 at 15.17.29.png" alt="Screenshot"/>
-<br>
-<br>
+
 
 ### Aside ✒️
 
 _Includes iformation about: Lead Generation, Brand Awareness and Cost Management_
 <br>
 <br>
-<img src="screenshots/Screen Shot 2021-03-06 at 15.39.02.png" height="400" alt="Screenshot" heigh/>
+
 
 
 
